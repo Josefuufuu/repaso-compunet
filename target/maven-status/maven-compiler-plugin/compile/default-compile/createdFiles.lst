@@ -1,0 +1,10 @@
+icesi\edu\services\DeviceService.class
+icesi\edu\models\Measurement.class
+icesi\edu\repositories\PostConstruct.class
+icesi\edu\servlets\ListDevicesServlet.class
+icesi\edu\servlets\UpdateDeviceStatusServlet.class
+icesi\edu\config\WebInitializer.class
+icesi\edu\models\Device.class
+icesi\edu\servlets\AddDeviceServlet.class
+icesi\edu\config\AppConfiguration.class
+icesi\edu\repositories\DeviceRepository.class
